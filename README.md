@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=65FF8F&height=300&section=header&text=We%20are%20studying%20on%20datacamp&fontSize=50&fontColor=222&desc=Powered%20by%20Pseudo%20Lab&descAlignY=35&descAlign=78)
+
 <a href="https://www.datacamp.com/"><img align="right" src="images/datacamp-svg-logo.svg" width=15%/></a>
-<br> <a href="https://pseudo-lab.com/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09"><img align=right src = "https://pseudo-lab.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6a262cae-5831-4cb2-8534-4b50fddc91e1%2F____(1).png?table=block&id=c42db665-2c1b-45c3-ba4b-fe157c70cf09&spaceId=333f96cf-396d-45ff-8331-232d41bd4d55&width=250&userId=&cache=v2" width=15%></a>
+<br>
+<br>
+<a href="https://pseudo-lab.com/Pseudo-Lab-c42db6652c1b45c3ba4bfe157c70cf09"><img align=right src = "https://pseudo-lab.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6a262cae-5831-4cb2-8534-4b50fddc91e1%2F____(1).png?table=block&id=c42db665-2c1b-45c3-ba4b-fe157c70cf09&spaceId=333f96cf-396d-45ff-8331-232d41bd4d55&width=250&userId=&cache=v2" width=15%></a>
 
 # [Data Scientist with Python Track Study](https://pseudo-lab.com/Data-Scientist-with-Python-Track-Study-18a8d227e5f1441fa981205aa3204089?pvs=25)
 
