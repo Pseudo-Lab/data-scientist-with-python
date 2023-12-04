@@ -14,10 +14,12 @@
 
 ## Members
 
-- [Sangjung Woo](@again4you)
-- [Sangwoo Lee](@sangwoolee392)
-- [Ju Yong Lee](@juseful)
-- [Wook Song](@wooksong)
+- [@again4you](https://github.com/again4you)
+- [@juseful](https://github.com/juseful)
+- [@petanerd](https://github.com/petanerd)
+- [@sangwoolee392](https://github.com/sangwoolee392)
+- [@wooksong](https://github.com/wooksong)
+- [@Yennyx](https://github.com/Yennyx)
 - TBU
 
 ## Progress
@@ -26,9 +28,9 @@
 
 #### 1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-|  @again4you | @sangwoolee392 | @juseful | @wooksong |
-| :--: | :--: | :--: | :--: |
-|  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |
+|  @again4you | @juseful | @petanerd| @sangwoolee392 | @wooksong | @Yennyx ||
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |  |
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
