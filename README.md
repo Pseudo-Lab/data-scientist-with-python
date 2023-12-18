@@ -20,6 +20,7 @@
 - [@sangwoolee392](https://github.com/sangwoolee392)
 - [@wooksong](https://github.com/wooksong)
 - [@Yennyx](https://github.com/Yennyx)
+- [@Juyounge-e](https://github.com/Juyounge-e)
 - TBU
 
 ## Progress
@@ -28,9 +29,9 @@
 
 #### 1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-|  @again4you | @juseful | @petanerd| @sangwoolee392 | @wooksong | @Yennyx ||
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |  |
+|  @again4you | @juseful | @petanerd| @sangwoolee392 | @wooksong | @Yennyx | @Juyounge-e | |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |  |  |
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
