@@ -31,9 +31,13 @@
 
 |  @again4you | @juseful | @petanerd| @sangwoolee392 | @wooksong | @Yennyx | @Juyounge-e | |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |  |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |  |  |
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
+
+|  @again4you | @juseful | @petanerd| @sangwoolee392 | @wooksong | @Yennyx | @Juyounge-e | |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e72fe936e378b9934dec11f85b11ef27af2fee0c) |  |  |  |  |  |  |  |
 
 #### 3. [Project: Investigating Netflix Movies](https://www.datacamp.com/projects/1674)
 
