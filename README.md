@@ -36,15 +36,27 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  |  |  |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/0e33dd4eba55a8b04c604c507bd4b186202ca24b) |  |
 
 #### 3. [Project: Investigating Netflix Movies](https://www.datacamp.com/projects/1674)
 
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |  |
+
 #### 5. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
 
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |  |
+
 #### 6. [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |  |
 
 #### 7. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
