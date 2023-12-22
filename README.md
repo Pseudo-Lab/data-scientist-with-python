@@ -30,7 +30,7 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4ee1a0489e88f9280616cf250f6fdf371d4bead8) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
