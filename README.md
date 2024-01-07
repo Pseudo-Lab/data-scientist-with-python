@@ -30,7 +30,7 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |[✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ec5bc0eb42d81d519380ae06488065fa5bc5b430) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4ee1a0489e88f9280616cf250f6fdf371d4bead8) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  |[✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ec5bc0eb42d81d519380ae06488065fa5bc5b430) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/4ee1a0489e88f9280616cf250f6fdf371d4bead8) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/afd38d0fa35d53bba4f7eb1335e8216f15fbe813) |  | [✅](https://www.datacamp.com/statement-of-accomplishment/course/d79951b2ed33de4c0a7d2cc8100737b06488aa33)
 
 #### 2. [Intermediate Python](https://www.datacamp.com/courses/intermediate-python)
 
