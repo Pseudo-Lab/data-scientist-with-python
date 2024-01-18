@@ -43,7 +43,7 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  | [✅] | [✅] |
+|  |  |  |  |  | ✅ | ✅ |
 
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
