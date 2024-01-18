@@ -72,7 +72,15 @@
 
 #### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b965852ec50dfa58cd59b3a2ef82dc583bda9c4d) |  |
+
 #### 10. [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
+
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/031e9216cbc45bdef6cdc5ed50e209687d220e32) |  |
 
 #### 11. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
 
