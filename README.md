@@ -40,6 +40,11 @@
 
 #### 3. [Project: Investigating Netflix Movies](https://www.datacamp.com/projects/1674)
 
+
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | [✅] | [✅] |
+
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
