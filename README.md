@@ -39,6 +39,9 @@
 | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/73723c6abbe22d0b28800c0f8b897af01f2ba411) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/f10e763b59d925760f5355095bdbb15459e699b1) |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/0e33dd4eba55a8b04c604c507bd4b186202ca24b) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e95b866fd093750dd7dbaba9eb63c1dc92bf38e1) |
 
 #### 3. [Project: Investigating Netflix Movies](https://www.datacamp.com/projects/1674)
+|  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| [✅](https://projects.datacamp.com/projects/1674) |  |  |  |  |  |  |
 
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
