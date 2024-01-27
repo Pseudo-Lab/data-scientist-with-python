@@ -43,13 +43,13 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  | [✅] | [✅] |
+|  |  | [✅] |  |  | [✅] | [✅] |
 
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |  |
+|  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/90020de66ebba8c993cd736f3d6f947a468f04d7) |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |  |
 
 #### 5. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
 
