@@ -42,25 +42,25 @@
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| ✅ |  | ✅ |  |  | ✅ | ✅ |
+| ✅ | ✅ | ✅ |  |  | ✅ | ✅ |
 
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e7b8048ae999b5a31a4df168c28d36b03c63802) |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/90020de66ebba8c993cd736f3d6f947a468f04d7) |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e7b8048ae999b5a31a4df168c28d36b03c63802) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/61073d544e63583f99b73d01123b150b22f8b571)  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/90020de66ebba8c993cd736f3d6f947a468f04d7) |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |  |
 
 #### 5. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e2726f77084c75953c8cc2325bb9392694edc739) |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |  |
+| [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e2726f77084c75953c8cc2325bb9392694edc739) | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/60d73ee7ad0039124be3ff418043f3d55c5f869b) |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |  |
 
 #### 6. [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 
 |  @again4you | @juseful | @Juyounge-e | @petanerd| @sangwoolee392 | @wooksong | @Yennyx |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |  |
+|  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/8c85e1a5a5a13a85feaacc23df0364876df1fa7e) |  |  |  | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |  |
 
 #### 7. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
