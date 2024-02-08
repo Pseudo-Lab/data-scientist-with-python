@@ -62,7 +62,6 @@
 | **@wooksong**      | ✅ |
 | **@Yennyx**        | ✅ |
 
-
 #### 4. [Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)
 
 | Member             | Statement of Accomplishment |
@@ -99,13 +98,31 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |
 | **@Yennyx**        |  |
 
-
 #### 7. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b291cb153277439199d232db38171821cca72136) |
+| **@Yennyx**        |  |
 
 #### 8. [Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)
 
-#### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1588722bd8a84e76bef83fc6ea58a094add0c59) |
+| **@Yennyx**        |  |
 
+#### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
