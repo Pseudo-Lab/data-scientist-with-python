@@ -148,6 +148,16 @@
 
 #### 11. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4585350cc7560693e782ab97f48e33f9f3800a3) |
+| **@Yennyx**        |  |
+
 #### 12. [Project: A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441)
 
 #### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
