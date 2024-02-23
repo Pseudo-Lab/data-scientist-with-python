@@ -80,7 +80,7 @@
 | :--                | :--:                        |
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e2726f77084c75953c8cc2325bb9392694edc739) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/60d73ee7ad0039124be3ff418043f3d55c5f869b) |
-| **@Juyounge-e**    |  |
+| **@Juyounge-e**    | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/bad4192702a42f1f29389e5d6f1bb0e1f6654eea) |
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b7de515916eb9d976de61233be5bfe7f9620f42b) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |
