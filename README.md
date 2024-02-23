@@ -103,7 +103,7 @@
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
 | **@again4you**     |  |
-| **@juseful**       |  |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dc1146c550b8a8fa348dc1136527c78df8bae2b9)|
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
@@ -115,7 +115,7 @@
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
 | **@again4you**     |  |
-| **@juseful**       |  |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa5e0fa11c432fcb259c2cf39fc611805a3a4726)|
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
