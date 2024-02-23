@@ -45,7 +45,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e72fe936e378b9934dec11f85b11ef27af2fee0c) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc75f1250cccb4059870acd9f70b161fcc6d49c0) |
 | **@Juyounge-e**    | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/f10e763b59d925760f5355095bdbb15459e699b1) |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7d5aa946b11c0edb5d309bc4640e8a7189141560) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/0e33dd4eba55a8b04c604c507bd4b186202ca24b) |
 | **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e95b866fd093750dd7dbaba9eb63c1dc92bf38e1) |
@@ -57,7 +57,7 @@
 | **@again4you**     | ✅ |
 | **@juseful**       | ✅ |
 | **@Juyounge-e**    | ✅ |
-| **@petanerd**      |  |
+| **@petanerd**      | ✅ |
 | **@sangwoolee392** |  |
 | **@wooksong**      | ✅ |
 | **@Yennyx**        | ✅ |
@@ -69,7 +69,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7e7b8048ae999b5a31a4df168c28d36b03c63802) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/61073d544e63583f99b73d01123b150b22f8b571) |
 | **@Juyounge-e**    | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/90020de66ebba8c993cd736f3d6f947a468f04d7) |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5821924f15ef2c3cef1a270ad85f3f77c80742b) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |
 | **@Yennyx**        |  |
@@ -81,7 +81,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/e2726f77084c75953c8cc2325bb9392694edc739) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/60d73ee7ad0039124be3ff418043f3d55c5f869b) |
 | **@Juyounge-e**    |  |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b7de515916eb9d976de61233be5bfe7f9620f42b) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |
 | **@Yennyx**        |  |
