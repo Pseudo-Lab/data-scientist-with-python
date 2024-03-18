@@ -114,7 +114,7 @@
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
-| **@again4you**     |  |
+| **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/85e16bcc546f4846825dd30cd2c1be64380316a1) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa5e0fa11c432fcb259c2cf39fc611805a3a4726)|
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
