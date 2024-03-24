@@ -160,6 +160,16 @@
 
 #### 12. [Project: A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ |
+| **@Yennyx**        |  |
+
 #### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
 #### 14. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
