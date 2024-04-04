@@ -90,7 +90,7 @@
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
-| **@again4you**     |  |
+| **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c157787cdfae910579461a19057766e378995a15) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/8c85e1a5a5a13a85feaacc23df0364876df1fa7e) |
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
@@ -102,8 +102,8 @@
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
-| **@again4you**     |  |
-| **@juseful**       |  |
+| **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab7e50b70452e10efff4d9a549c64fd399225e47) |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dc1146c550b8a8fa348dc1136527c78df8bae2b9)|
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
@@ -114,8 +114,8 @@
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
-| **@again4you**     |  |
-| **@juseful**       |  |
+| **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/85e16bcc546f4846825dd30cd2c1be64380316a1) |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa5e0fa11c432fcb259c2cf39fc611805a3a4726)|
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
@@ -148,7 +148,27 @@
 
 #### 11. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4585350cc7560693e782ab97f48e33f9f3800a3) |
+| **@Yennyx**        |  |
+
 #### 12. [Project: A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441)
+
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ |
+| **@Yennyx**        |  |
 
 #### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
