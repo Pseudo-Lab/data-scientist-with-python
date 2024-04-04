@@ -164,7 +164,7 @@
 | :--                | :--: |
 | **@again4you**     |  |
 | **@juseful**       |  |
-| **@Juyounge-e**    |  |
+| **@Juyounge-e**    | ✅ |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
 | **@wooksong**      | ✅ |
