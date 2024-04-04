@@ -93,7 +93,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c157787cdfae910579461a19057766e378995a15) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/8c85e1a5a5a13a85feaacc23df0364876df1fa7e) |
 | **@Juyounge-e**    |  |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/921bca654d63f0a209f13aecc75644d24a233361) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |
 | **@Yennyx**        |  |
@@ -105,7 +105,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/ab7e50b70452e10efff4d9a549c64fd399225e47) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dc1146c550b8a8fa348dc1136527c78df8bae2b9)|
 | **@Juyounge-e**    |  |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7cadc29b0ae7968a43d08d370b50cd14ec805a3a)|
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b291cb153277439199d232db38171821cca72136) |
 | **@Yennyx**        |  |
@@ -117,7 +117,7 @@
 | **@again4you**     | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/85e16bcc546f4846825dd30cd2c1be64380316a1) |
 | **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/fa5e0fa11c432fcb259c2cf39fc611805a3a4726)|
 | **@Juyounge-e**    |  |
-| **@petanerd**      |  |
+| **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c53c29095d370bd239ca0c581f3f15104087d0d)|
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1588722bd8a84e76bef83fc6ea58a094add0c59) |
 | **@Yennyx**        |  |
@@ -165,7 +165,7 @@
 | **@again4you**     | ✅ |
 | **@juseful**       |  |
 | **@Juyounge-e**    | ✅ |
-| **@petanerd**      |  |
+| **@petanerd**      | ✅ |
 | **@sangwoolee392** |  |
 | **@wooksong**      | ✅ |
 | **@Yennyx**        |  |
