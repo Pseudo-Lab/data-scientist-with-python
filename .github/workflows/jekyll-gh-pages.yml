@@ -34,9 +34,12 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./Docs
-          destination: ./_site
+          destination: ./Docs/_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages
+          path: Docs/_site/
 
   # Deployment job
   deploy:
