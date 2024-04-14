@@ -72,7 +72,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5821924f15ef2c3cef1a270ad85f3f77c80742b) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |
-| **@Yennyx**        |  |
+| **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/d8961d6e17fa8f0b1dc37c9d58e8e3f56830e133) |
 
 #### 5. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
 
@@ -84,7 +84,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b7de515916eb9d976de61233be5bfe7f9620f42b) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |
-| **@Yennyx**        |  |
+| **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dfce9491adae651234eca16277dfdb1764e806f8) |
 
 #### 6. [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 
@@ -96,7 +96,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/921bca654d63f0a209f13aecc75644d24a233361) |
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |
-| **@Yennyx**        |  |
+| **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dc52edba575c914d27cde047ed75a137d17dd88b) |
 
 #### 7. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
@@ -108,7 +108,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7cadc29b0ae7968a43d08d370b50cd14ec805a3a)|
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b291cb153277439199d232db38171821cca72136) |
-| **@Yennyx**        |  |
+| **@Yennyx**        | [✅] |
 
 #### 8. [Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)
 
@@ -120,7 +120,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c53c29095d370bd239ca0c581f3f15104087d0d)|
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1588722bd8a84e76bef83fc6ea58a094add0c59) |
-| **@Yennyx**        |  |
+| **@Yennyx**        | [✅] |
 
 #### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
@@ -168,7 +168,7 @@
 | **@petanerd**      | ✅ |
 | **@sangwoolee392** |  |
 | **@wooksong**      | ✅ |
-| **@Yennyx**        |  |
+| **@Yennyx**        | ✅ |
 
 #### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
