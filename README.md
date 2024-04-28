@@ -120,7 +120,7 @@
 | **@petanerd**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c53c29095d370bd239ca0c581f3f15104087d0d)|
 | **@sangwoolee392** |  |
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1588722bd8a84e76bef83fc6ea58a094add0c59) |
-| **@Yennyx**        | [✅] |
+| **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/39ec8ea425d03261f9bd45c3f801a72740cfdcb5) |
 
 #### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
 
