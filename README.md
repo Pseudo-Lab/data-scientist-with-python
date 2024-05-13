@@ -186,6 +186,14 @@
 
 #### 20. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/15c900ee1c9471d80a20a7faaac71a3065e0c4c2) |
+| **@Yennyx**        |  |
+
 #### 21. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Introduction%20to%20Regression%20with%20statsmodels%20in%20Python&next_content_technology=python)
 
 #### 22. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
