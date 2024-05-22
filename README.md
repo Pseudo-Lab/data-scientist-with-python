@@ -172,6 +172,16 @@
 
 #### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
+ Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5a41121837d852bcf4a19850dd2beefe1c43906) |
+| **@Yennyx**        |  |
+
 #### 14. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
 
 #### 15. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
