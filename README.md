@@ -206,6 +206,14 @@
 
 #### 21. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Introduction%20to%20Regression%20with%20statsmodels%20in%20Python&next_content_technology=python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ Advanced (Score:140 / Percentile: 90%) |
+| **@Yennyx**        |  |
+
 #### 22. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
 
 #### 23. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
