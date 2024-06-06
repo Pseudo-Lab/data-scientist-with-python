@@ -184,9 +184,27 @@
 
 #### 14. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
 
+ Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/92aa6bdd3949b9570328e6c342af19d6cdd6de74) |
+| **@Yennyx**        |  |
+
 #### 15. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
 
 #### 16. [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python/continue)
+
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/12b54ccf699bc85f7bc41ab9efc336a4547bfa79) |
+| **@Yennyx**        |  |
 
 #### 17. [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
 
