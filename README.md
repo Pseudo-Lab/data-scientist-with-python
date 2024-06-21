@@ -9,7 +9,7 @@
 
 ## Objectives
 
-- Completing the [```Career Track: Data Scientist with Python```](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=8) track
+- Completing the [```Career Track: Associate Data Scientist in Python```](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python) (formerly ```Data Scientist with Python```)
 - TBU
 
 ## Members
@@ -24,7 +24,7 @@
 
 ## Progress
 
-### [Career Track: Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=8)
+### [Career Track: Associate Data Scientist in Python](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
 
 #### 1. [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
@@ -74,7 +74,19 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/57b17ebd981f89cf38aa6b5d23c533c437ca8771) |
 | **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/d8961d6e17fa8f0b1dc37c9d58e8e3f56830e133) |
 
-#### 5. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
+#### 5. [Project: Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
+
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ |
+| **@Yennyx**        |  |
+
+#### 6. [Joining Data with Pandas](https://www.datacamp.com/courses/joining-data-with-pandas)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -86,7 +98,7 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/3c35dfdb1c69c43f5c4c518a1a9a2214875ae8c0) |
 | **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dfce9491adae651234eca16277dfdb1764e806f8) |
 
-#### 6. [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
+#### 7. [Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -98,7 +110,7 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b95ffdeb3c7d0e54f27c79e112b533376340def0) |
 | **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/dc52edba575c914d27cde047ed75a137d17dd88b) |
 
-#### 7. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
+#### 8. [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -110,7 +122,7 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b291cb153277439199d232db38171821cca72136) |
 | **@Yennyx**        | [✅] |
 
-#### 8. [Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)
+#### 9. [Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -122,43 +134,7 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1588722bd8a84e76bef83fc6ea58a094add0c59) |
 | **@Yennyx**        | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/39ec8ea425d03261f9bd45c3f801a72740cfdcb5) |
 
-#### 9. [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
-
-| Member             | Statement of Accomplishment |
-| :--                | :--:                        |
-| **@again4you**     |  |
-| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/859af0195dc51386685312636e1615968eacd54b) |
-| **@Juyounge-e**    |  |
-| **@petanerd**      |  |
-| **@sangwoolee392** |  |
-| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b965852ec50dfa58cd59b3a2ef82dc583bda9c4d) |
-| **@Yennyx**        |  |
-
-#### 10. [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)
-
-| Member             | Statement of Accomplishment |
-| :--                | :--:                        |
-| **@again4you**     |  |
-| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/79cad43ba6ccef9515f308918852a230065d8b49) |
-| **@Juyounge-e**    |  |
-| **@petanerd**      |  |
-| **@sangwoolee392** |  |
-| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/031e9216cbc45bdef6cdc5ed50e209687d220e32) |
-| **@Yennyx**        |  |
-
-#### 11. [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/courses/intermediate-data-visualization-with-seaborn)
-
-| Member             | Statement of Accomplishment |
-| :--                | :--:                        |
-| **@again4you**     |  |
-| **@juseful**       |  |
-| **@Juyounge-e**    |  |
-| **@petanerd**      |  |
-| **@sangwoolee392** |  |
-| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c4585350cc7560693e782ab97f48e33f9f3800a3) |
-| **@Yennyx**        |  |
-
-#### 12. [Project: A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441)
+#### 10. [Project: A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/441)
 
 | Member             | Done |
 | :--                | :--: |
@@ -170,7 +146,33 @@
 | **@wooksong**      | ✅ |
 | **@Yennyx**        | ✅ |
 
-#### 13. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
+#### 11. [Introduction to Functions in Python](https://app.datacamp.com/learn/courses/introduction-to-functions-in-python)
+
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/859af0195dc51386685312636e1615968eacd54b) |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b965852ec50dfa58cd59b3a2ef82dc583bda9c4d) |
+| **@Yennyx**        |  |
+
+#### 12. [Python Data Science Toolbox](https://app.datacamp.com/learn/courses/python-toolbox)
+
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@again4you**     |  |
+| **@juseful**       | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/79cad43ba6ccef9515f308918852a230065d8b49) |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/031e9216cbc45bdef6cdc5ed50e209687d220e32) |
+| **@Yennyx**        |  |
+
+#### 13. [Skill Assessment: Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python?track_title=Associate%20Data%20Scientist%20%20in%20Python&track_url=https://www.datacamp.com/tracks/associate-data-scientist-in-python/continue&next_content_type=course&next_content_title=Exploratory%20Data%20Analysis%20in%20Python&next_content_technology=python)
+
+#### 14. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
  Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -182,8 +184,9 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5a41121837d852bcf4a19850dd2beefe1c43906) |
 | **@Yennyx**        |  |
 
-#### 14. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
+#### 15. [Project: Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876)
 
+#### 16. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
  Member             | Statement of Accomplishment |
 | :--                | :--:                        |
 | **@again4you**     |  |
@@ -194,9 +197,11 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/92aa6bdd3949b9570328e6c342af19d6cdd6de74) |
 | **@Yennyx**        |  |
 
-#### 15. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
+#### 17. [Project: Customer Analytics: Preparing Data for Modeling](https://app.datacamp.com/learn/projects/1600)
 
-#### 16. [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python/continue)
+#### 18. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
+
+#### 19. [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python/continue)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -206,13 +211,15 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/12b54ccf699bc85f7bc41ab9efc336a4547bfa79) |
 | **@Yennyx**        |  |
 
-#### 17. [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
+#### 20. [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
 
-#### 18. [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python/continue)
+#### 21. [Project: Exploring Airbnb Market Trends](https://app.datacamp.com/learn/projects/1589)
 
-#### 19. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Writing%20Functions%20in%20Python&next_content_technology=python)
+#### 22. [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python/continue)
 
-#### 20. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
+#### 23. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Writing%20Functions%20in%20Python&next_content_technology=python)
+
+#### 24. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -222,7 +229,7 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/15c900ee1c9471d80a20a7faaac71a3065e0c4c2) |
 | **@Yennyx**        |  |
 
-#### 21. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Introduction%20to%20Regression%20with%20statsmodels%20in%20Python&next_content_technology=python)
+#### 25. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Introduction%20to%20Regression%20with%20statsmodels%20in%20Python&next_content_technology=python)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
@@ -232,18 +239,26 @@
 | **@wooksong**      | ✅ Advanced (Score:140 / Percentile: 90%) |
 | **@Yennyx**        |  |
 
-#### 22. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
+#### 26. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
 
-#### 23. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
+#### 27. [Project: Modeling Car Insurance Claim Outcomes](https://app.datacamp.com/learn/projects/1645)
 
-#### 24. [Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
+#### 28. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
 
-#### 25. [Project: Hypothesis Testing in Healthcare](https://app.datacamp.com/learn/projects/1792)
+#### 29. [Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
 
-#### 26. [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
+#### 30. [Experimental Design in Python](https://app.datacamp.com/learn/courses/experimental-design-in-python)
 
-#### 27. [Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
+#### 31. [Project: Hypothesis Testing with Men's and Women's Soccer Matches](https://app.datacamp.com/learn/projects/1611)
 
-#### 28. [Unsupervised Learning in Python](https://app.datacamp.com/learn/courses/unsupervised-learning-in-python)
+#### 32. [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
-#### 29. [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python)
+#### 33. [Project: Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
+
+#### 34. [Unsupervised Learning in Python](https://app.datacamp.com/learn/courses/unsupervised-learning-in-python)
+
+#### 35. [Project: Clustering Antarctic Penguin Species](https://app.datacamp.com/learn/projects/1809)
+
+#### 36. [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python)
+
+#### 37. [Project: Predicting Movie Rental Durations](https://app.datacamp.com/learn/projects/1796)
