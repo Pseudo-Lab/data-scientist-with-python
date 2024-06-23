@@ -170,7 +170,15 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/031e9216cbc45bdef6cdc5ed50e209687d220e32) |
 | **@Yennyx**        |  |
 
-#### 13. [Skill Assessment: Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python?track_title=Associate%20Data%20Scientist%20%20in%20Python&track_url=https://www.datacamp.com/tracks/associate-data-scientist-in-python/continue&next_content_type=course&next_content_title=Exploratory%20Data%20Analysis%20in%20Python&next_content_technology=python)
+#### 13. [Skill Assessment: Data Manipulation with Python](https://assessment-v2.datacamp.com/exploratory-analysis-python?returnUrl=https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
+
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ Advanced (Score:140 / Percentile: 90th) |
+| **@Yennyx**        |  |
 
 #### 14. [Exploratory Data Analysis in Python](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python)
 
@@ -213,11 +221,19 @@
 
 #### 20. [Cleaning Data in Python](https://app.datacamp.com/learn/courses/cleaning-data-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/75c470e6d68146bd68fca0fc7705cb9f7f185290) |
+| **@Yennyx**        |  |
+
 #### 21. [Project: Exploring Airbnb Market Trends](https://app.datacamp.com/learn/projects/1589)
 
 #### 22. [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python/continue)
 
-#### 23. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Writing%20Functions%20in%20Python&next_content_technology=python)
+#### 23. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?returnUrl=https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
 
 #### 24. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 
@@ -229,14 +245,14 @@
 | **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/15c900ee1c9471d80a20a7faaac71a3065e0c4c2) |
 | **@Yennyx**        |  |
 
-#### 25. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?track_title=Data%20Scientist%20%20with%20Python&track_url=https://www.datacamp.com/tracks/data-scientist-with-python/continue&next_content_type=course&next_content_title=Introduction%20to%20Regression%20with%20statsmodels%20in%20Python&next_content_technology=python)
+#### 25. [Skill Assessment: Python Programming](https://assessment-v2.datacamp.com/coding-for-production-python?returnUrl=https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
 
 | Member             | Statement of Accomplishment |
 | :--                | :--:                        |
 | **@Juyounge-e**    |  |
 | **@petanerd**      |  |
 | **@sangwoolee392** |  |
-| **@wooksong**      | ✅ Advanced (Score:140 / Percentile: 90%) |
+| **@wooksong**      | ✅ Advanced (Score:160 / Percentile: 97th) |
 | **@Yennyx**        |  |
 
 #### 26. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
