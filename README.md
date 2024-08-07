@@ -209,6 +209,14 @@
 
 #### 18. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/8b2128d55dd520d70201ba1e98846b81c52f0451) |
+| **@Yennyx**        |  |
+
 #### 19. [Introduction to Importing Data in Python](https://www.datacamp.com/courses/introduction-to-importing-data-in-python/continue)
 
 | Member             | Statement of Accomplishment |
