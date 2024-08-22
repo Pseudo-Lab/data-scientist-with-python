@@ -241,6 +241,14 @@
 
 #### 22. [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python/continue)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/bec727447502be156ad9712d94e80ca636e6ee3b) |
+| **@Yennyx**        |  |
+
 #### 23. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?returnUrl=https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
 
 #### 24. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
