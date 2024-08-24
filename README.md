@@ -194,6 +194,16 @@
 
 #### 15. [Project: Analyzing Crime in Los Angeles](https://app.datacamp.com/learn/projects/1876)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Analyzing%20Crime%20in%20Los%20Angeles/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 16. [Working with Categorical Data in Python](https://app.datacamp.com/learn/courses/working-with-categorical-data-in-python)
  Member             | Statement of Accomplishment |
 | :--                | :--:                        |
