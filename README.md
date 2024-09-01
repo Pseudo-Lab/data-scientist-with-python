@@ -217,6 +217,16 @@
 
 #### 17. [Project: Customer Analytics: Preparing Data for Modeling](https://app.datacamp.com/learn/projects/1600)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Customer%20Analytics%20-%20Preparing%20Data%20for%20Modeling/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 18. [Data Communication Concepts](https://app.datacamp.com/learn/courses/data-communication-concepts)
 
 | Member             | Statement of Accomplishment |
