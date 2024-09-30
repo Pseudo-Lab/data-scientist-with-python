@@ -259,6 +259,16 @@
 
 #### 21. [Project: Exploring Airbnb Market Trends](https://app.datacamp.com/learn/projects/1589)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Exploring%20Airbnb%20Market%20Trends/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 22. [Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python/continue)
 
 | Member             | Statement of Accomplishment |
