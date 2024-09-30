@@ -293,6 +293,14 @@
 
 #### 26. [Introduction to Regression with statsmodels in Python](https://www.datacamp.com/courses/introduction-to-regression-with-statsmodels-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/c52b2feb1bf3be8ef70b8bcbc74f7f38560b7382) |
+| **@Yennyx**        |  |
+
 #### 27. [Project: Modeling Car Insurance Claim Outcomes](https://app.datacamp.com/learn/projects/1645)
 
 #### 28. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
