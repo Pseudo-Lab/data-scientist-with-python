@@ -281,6 +281,14 @@
 
 #### 23. [Skill Assessment: Importing & Cleaning Data with Python](https://assessment-v2.datacamp.com/data-management-python?returnUrl=https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | ✅ Advanced (Score:151 / Percentile: 95th) |
+| **@Yennyx**        |  |
+
 #### 24. [Writing Functions in Python](https://app.datacamp.com/learn/courses/writing-functions-in-python)
 
 | Member             | Statement of Accomplishment |
