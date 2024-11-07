@@ -315,6 +315,14 @@
 
 #### 28. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/d39a28b27e192caca2298161d71735ab26821626) |
+| **@Yennyx**        |  |
+
 #### 29. [Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
 
 #### 30. [Experimental Design in Python](https://app.datacamp.com/learn/courses/experimental-design-in-python)
