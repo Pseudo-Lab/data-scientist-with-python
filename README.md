@@ -321,6 +321,16 @@
 
 #### 27. [Project: Modeling Car Insurance Claim Outcomes](https://app.datacamp.com/learn/projects/1645)
 
+| Member             | Done |
+| :--                | :--: |
+| **@again4you**     |  |
+| **@juseful**       |  |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](./projects/Modeling%20Car%20Insurance%20Claim%20Outcomes/wooksong/) |
+| **@Yennyx**        |  |
+
 #### 28. [Sampling in Python](https://www.datacamp.com/courses/sampling-in-python)
 
 | Member             | Statement of Accomplishment |
