@@ -343,6 +343,14 @@
 
 #### 29. [Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/f3f025fa7f93c2e02a1095be05a4662a31cf4244) |
+| **@Yennyx**        |  |
+
 #### 30. [Experimental Design in Python](https://app.datacamp.com/learn/courses/experimental-design-in-python)
 
 #### 31. [Project: Hypothesis Testing with Men's and Women's Soccer Matches](https://app.datacamp.com/learn/projects/1611)
