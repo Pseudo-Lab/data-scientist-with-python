@@ -353,13 +353,37 @@
 
 #### 30. [Experimental Design in Python](https://app.datacamp.com/learn/courses/experimental-design-in-python)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/416f8705b8da1a7d39c368334ae8cae39a67c782) |
+| **@Yennyx**        |  |
+
 #### 31. [Project: Hypothesis Testing with Men's and Women's Soccer Matches](https://app.datacamp.com/learn/projects/1611)
 
 #### 32. [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
 
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/b4265a3fd408ee73e4ae145b2ce9421255eea166) |
+| **@Yennyx**        |  |
+
 #### 33. [Project: Predictive Modeling for Agriculture](https://app.datacamp.com/learn/projects/1772)
 
 #### 34. [Unsupervised Learning in Python](https://app.datacamp.com/learn/courses/unsupervised-learning-in-python)
+
+| Member             | Statement of Accomplishment |
+| :--                | :--:                        |
+| **@Juyounge-e**    |  |
+| **@petanerd**      |  |
+| **@sangwoolee392** |  |
+| **@wooksong**      | [✅](https://www.datacamp.com/completed/statement-of-accomplishment/course/147c5f729effe733c4771771f3f07ca90b0b9dfc) |
+| **@Yennyx**        |  |
 
 #### 35. [Project: Clustering Antarctic Penguin Species](https://app.datacamp.com/learn/projects/1809)
 
